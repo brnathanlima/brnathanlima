@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**brnathanlima/brnathanlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Laravel developer passionate for technology!
 
-Here are some ideas to get you started:
+I'm also a DevOps culture propagator and supporter for the adoption of workflows like CI & CD and Gitflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can get in touch with me by the following ways:
+
+Linkdedin | Twitter | Facebook | E-mail | Instagram | Phone number | Discord
+
+### Here are some technologis that I use in my day-to-day work
+
+PHP | Laravel | JQuery | Git | Docker | MySql | Linux | AWS | Wordpress | Joomla | Nginx 
+
+### Here are some projects that I use and recoomend in my work:
+
+Laradock | Git Flow
+
+### And Here are some tools & extensions that I also use and recommend for PHP or general web development:
+
+VSCoce | GitAhead | Mysql Workbench | DBeaver | Filezilla | Postman | PHP cs-fixer | XDebug
+
+### Last but not least here are some sites, YouTube chanels, learning platforms or course pages that I recommend:
+
+Laracasts | Udemy | Edx
