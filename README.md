@@ -6,7 +6,7 @@ I'm also a DevOps culture propagator and supporter for the adoption of workflows
 
 #### You can get in touch with me by the following ways:
 
-Linkdedin | Twitter | Facebook | E-mail | Instagram | Phone number | Discord
+<a href="https://www.linkedin.com/in/brnathanlima/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/brnathanlima" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.facebook.com/nathanael.lima.56679/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a> <a href="https://www.instagram.com/brnathanlima/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:nathanaellimacpc@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="mailto:nathanaellimacpc@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://discord.com/channels/brnathanlima#9635" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 #### Here are some technologis that I use in my day-to-day work
 
